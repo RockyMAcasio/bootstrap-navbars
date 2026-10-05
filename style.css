@@ -35,3 +35,16 @@
 .aloha-nav .nav-link.shop-link {
   color: #EDC601;
 }
+
+.dukes-nav {
+  background-color: #017574;
+  color: white;
+}
+
+.dukes-nav .nav-link {
+  color: white;
+}
+
+.dukes-nav .nav-link.takeout-link {
+  color: #F1A228;
+}
