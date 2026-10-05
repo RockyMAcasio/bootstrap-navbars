@@ -27,3 +27,11 @@
   background-color: rgb(48, 73, 95);
   color: white;
 }
+
+.aloha-nav .nav-link {
+  color: #222;
+}
+
+.aloha-nav .nav-link.shop-link {
+  color: #EDC601;
+}
