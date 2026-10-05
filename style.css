@@ -5,3 +5,46 @@
 .boardroom-nav a {
   color: white;
 }
+
+.morning-brew .nav-item {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2px;
+  padding-bottom: 0.5rem;
+  color: #E33E19;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  cursor: pointer !important;
+}
+
+.morning-brew .active {
+  padding-top: 0;
+  color: black;
+}
+
+.buzzs-nav {
+  background-color: rgb(48, 73, 95);
+  color: white;
+}
+
+.aloha-nav .nav-link {
+  color: #222;
+}
+
+.aloha-nav .nav-link.shop-link {
+  color: #EDC601;
+}
+
+.dukes-nav {
+  background-color: #017574;
+  color: white;
+}
+
+.dukes-nav .nav-link {
+  color: white;
+}
+
+.dukes-nav .nav-link.takeout-link {
+  color: #F1A228;
+}
